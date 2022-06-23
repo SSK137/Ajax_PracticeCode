@@ -11,11 +11,6 @@
       "id": 5
     },
     {
-      "name": "Pankajs",
-      "salary": "10000",
-      "id": 6
-    },
-    {
       "name": "Harry",
       "Salary": "5000",
       "id": 7
@@ -26,9 +21,14 @@
       "id": 8
     },
     {
-      "name": "Kumar",
-      "salary": "5000",
+      "name": "Harry",
+      "Salary": "5000",
       "id": 9
+    },
+    {
+      "name": "Harry",
+      "salary": "50000",
+      "id": 10
     }
   ]
 }

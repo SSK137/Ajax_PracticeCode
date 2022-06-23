@@ -35,7 +35,7 @@ function getUserDetails(data) {
 makeAJAXCall("GET", getURL, getUserDetails, true);
 console.log("made GET AJAXCall to server at :=> " + showTime());
 
-const deleteURL = "http://localhost:3000/employees/2";
+const deleteURL = "http://localhost:3000/employees/9";
 function userDeleted(data){
     console.log("USer Deleted at:=> "+ showTime() +" data:=> " +data)
 }
